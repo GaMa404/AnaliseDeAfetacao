@@ -1,0 +1,16 @@
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\ConsoleAppGremio\ConsoleAppGremio\bin\Debug\ConsoleAppGremio.exe.config
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\ConsoleAppGremio\ConsoleAppGremio\bin\Debug\ConsoleAppGremio.exe
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\ConsoleAppGremio\ConsoleAppGremio\bin\Debug\ConsoleAppGremio.pdb
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.csproj.AssemblyReference.cache
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.csproj.SuggestedBindingRedirects.cache
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.exe
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.pdb
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\Conteúdo\Scripts\C#\ConsoleAppGremio\ConsoleAppGremio\bin\Debug\ConsoleAppGremio.exe.config
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\Conteúdo\Scripts\C#\ConsoleAppGremio\ConsoleAppGremio\bin\Debug\ConsoleAppGremio.exe
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\Conteúdo\Scripts\C#\ConsoleAppGremio\ConsoleAppGremio\bin\Debug\ConsoleAppGremio.pdb
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\Conteúdo\Scripts\C#\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.csproj.AssemblyReference.cache
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\Conteúdo\Scripts\C#\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.csproj.SuggestedBindingRedirects.cache
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\Conteúdo\Scripts\C#\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\Conteúdo\Scripts\C#\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.exe
+C:\Users\PICHAU\OneDrive - Etec Centro Paula Souza\Desktop\Conteúdo\Scripts\C#\ConsoleAppGremio\ConsoleAppGremio\obj\Debug\ConsoleAppGremio.pdb
